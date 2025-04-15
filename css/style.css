@@ -5,30 +5,25 @@
   background-size: cover;
   color: #ffffff;
 }
-
 header {
   text-align: center;
   padding: 4rem 1rem;
   background: rgba(0, 0, 0, 0.6);
 }
-
 .logo {
   width: 100px;
   margin-bottom: 1rem;
 }
-
 h1 {
   font-family: 'Orbitron', sans-serif;
   font-size: 3rem;
   color: #00ffcc;
   text-shadow: 0 0 20px #00ffcc;
 }
-
 .tagline {
   font-style: italic;
   color: #ccc;
 }
-
 section {
   padding: 3rem 2rem;
   background: rgba(0, 0, 0, 0.7);
@@ -36,18 +31,15 @@ section {
   max-width: 800px;
   border-radius: 16px;
 }
-
 .beat a, .video a, .socials a {
   color: #00ffcc;
   text-decoration: none;
   transition: 0.2s ease;
 }
-
 .beat a:hover, .video a:hover, .socials a:hover {
   color: #ffffff;
   text-shadow: 0 0 10px #00ffcc;
 }
-
 footer {
   text-align: center;
   padding: 2rem;
